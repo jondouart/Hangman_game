@@ -1,7 +1,7 @@
 import random
 
 # Слова для угадывания
-words = ["python", "programming", "hangman", "developer", "computer", "фрукт", "овощь"]
+words = ["python", "programming", "hangman", "developer", "computer", "фрукт", "овощь", "яблоко", банан]
 
 # Выбор случайного слова
 word_to_guess = random.choice(words)
