@@ -2,7 +2,7 @@ import random
 
 # Слова для угадывания
 words = ["python", "programming", "hangman", "developer", "computer", "фрукт", "овощь", "яблоко", "банан", "игра", "слова", "животное", 
-        "space", "word"
+        "space", "word", "games"
         ]
 
 # Выбор случайного слова
